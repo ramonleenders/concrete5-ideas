@@ -12,3 +12,4 @@
 - More statistics, e.g. to see how many people visit a marketplace page.
 - Sort marketplace results randomly.
 - Send an email if someone grants you a license.
+- Display amount of downloads/licenses sold for Add-Ons
